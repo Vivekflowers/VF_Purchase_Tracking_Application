@@ -1,1 +1,2 @@
-HI this is a welcome message " thank you"
+HI this is a welcome message " thank you"  
+this is my second line in this TestFile.txt trail
